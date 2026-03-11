@@ -1,0 +1,12 @@
+{
+	"name": "CanvasTab",
+	"description": "Have a clear view of your canvas tasks on your main tab.",
+	"version": "1.0",
+	"manifest_version": 3,
+	"action": {
+		"default_popup": "hello.html"
+	},
+	"chrome_url_overrides": {
+		"newtab": "tab.html"
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chrome-types": "^0.1.422",
+    "node-ical": "^0.25.5"
+  }
+}
